@@ -35,10 +35,10 @@ This project involved cleaning and preparing a raw dataset in Excel for further 
 
 
 ## 📁 Files
-- `raw_data.xlsx` – Original dataset (anonymized if needed)
-- `cleaned_data.xlsx` – Cleaned version with corrections
-- `issues_log.csv` – Tabular format of the issues above
-- `README.md` – This documentation
+- `Orders`, `Regions` – Original dataset (anonymized)
+- `Orders_Cleaned`, `Regions_Cleaned` – Cleaned version with corrections
+- `Issues Log` – Tabular format of the issues above
+- All can be found in the excel workbook [here!](https://github.com/michaelomi/Excel-Data-Cleaning/blob/main/Gamezone%20Ecommerce%20Orders%20Data.xlsx)
 
 
 ## 🧠 Notes
