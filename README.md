@@ -1,4 +1,4 @@
-# Excel Data Cleaning Project
+# Gamezone Ecommerce Orders – Data Cleaning Project
 
 ## 📄 Overview
 This project involved cleaning and preparing a raw dataset in Excel for further analysis. The dataset contained customer orders, region details, and marketing information. The goal was to identify and address data quality issues, improve consistency, and document any limitations.
